@@ -6,8 +6,12 @@
 
 - Vue.js
 - Firebase
-- SCSS
+- CSS 
+  - Materialize
+  - Font Awesome
 - HTML
+
+
 
 
 
