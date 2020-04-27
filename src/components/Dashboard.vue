@@ -25,8 +25,10 @@
 </template>
 
 <script>
+
 import db from "./db";
 export default {
+
   name: "dashboard",
   data() {
     return {

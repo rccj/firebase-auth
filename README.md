@@ -1,3 +1,16 @@
+# 帳號驗證與後台管理
+
+[Demo](https://rccj.github.io/firebase-auth/)
+
+## 使用技術
+
+- Vue.js
+- Firebase
+- SCSS
+- HTML
+
+
+
 # v-firestore
 
 > A Vue.js project
