@@ -1,4 +1,4 @@
-# 帳號驗證與後台管理
+# 帳號註冊驗證與後台管理
 
 [Demo](https://rccj.github.io/firebase-auth/)
 
