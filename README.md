@@ -5,6 +5,8 @@
 ## 使用技術
 
 - Vue.js
+  - Vue CLI
+  - Vuex
 - Firebase
 - CSS 
   - Materialize
